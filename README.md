@@ -16,3 +16,6 @@ Lunes 23 de Marzo 2026  10:30pm - 3:00pm
 Julian Lizano trabajó en la definición de los terminales y en la parte de expresiones de la gramática. Se encargó de establecer elementos como palabras reservadas, operadores, identificadores y tipos de datos.
 Además, desarrolló la estructura de las expresiones, tomando en cuenta la precedencia de operadores aritméticos, lógicos y relacionales, y cuidando que la gramática fuera clara y sin ambigüedades. Tambien se creo este dia el GIT
 
+Martes 24 de Marzo 2026 5:10 am - 8:10 am
+
+Poll garro vargas trabajo en los bucles del programa y en su estructura y definicion, en los 4 tipos de bucles que existen basandose en la estructura de c++ y en reordenamiento de la gramatica para una mejor visualizacion y uso, en conjunto con algunos otros tipos de detalles mas, generando dudas y preguntas al respecto para el profesor.
