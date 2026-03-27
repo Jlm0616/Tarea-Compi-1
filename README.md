@@ -27,3 +27,7 @@ Julian Lizano realizó una modificación general en la gramática del lenguaje, 
 - Viernes 27 de Marzo 2026 5 : 00 AM - 6 : 00 AM
 
 Poll Anthony Garro realizó una modificación general en la gramática del lenguaje, enfocándose en la estandarización de los símbolos utilizados. Se reemplazaron los caracteres definidos directamente por sus respectivos tokens (como <if>, <do>, <while>, <vacio>, entre otros), con el objetivo de mantener consistencia entre el análisis léxico y sintáctico.
+
+- Viernes 27 de Marzo 2026 10 : 00 AM - 11: 40 AM
+
+Julian Lizano añadió niveles de precedencia para operadores aritméticos (+, -, *, /, %, ^), relacionales (equal<|...|>, less_t<|...|>, etc.) y lógicos (@, #, $). Se integró el soporte para arreglos bidimensionales con índices como expresiones y se definió __main__ como función de tipo empty.
