@@ -31,3 +31,7 @@ Poll Anthony Garro realizó una modificación general en la gramática del lengu
 - Viernes 27 de Marzo 2026 10 : 00 AM - 11: 40 AM
 
 Julian Lizano añadió niveles de precedencia para operadores aritméticos (+, -, *, /, %, ^), relacionales (equal<|...|>, less_t<|...|>, etc.) y lógicos (@, #, $). Se integró el soporte para arreglos bidimensionales con índices como expresiones y se definió __main__ como función de tipo empty.
+
+- Viernes 27 de Marzo 2026 4 : 00 PM - 6: 40 PM
+
+Julian Lizano cree la documentacion externa
